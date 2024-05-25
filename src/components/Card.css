@@ -1,0 +1,12 @@
+.card {
+  border-radius: 0.4rem;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  margin-top: 4rem;
+  position: relative;
+}
+
+.card-content {
+  background-color: #dfdfdf;
+  aspect-ratio: 16 / 9;  
+}
